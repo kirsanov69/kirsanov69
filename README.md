@@ -12,6 +12,16 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
+<p align="center">
+  <a href="[https://www.linkedin.com/in/pavel-kirsanov-24631b258/]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100px; height: 40px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Karkaskomfort" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 100px; height: 40px;">
+  </a>
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirsanov69&layout=compact)](https://github.com/kirsanov69/github-readme-stats)
 
