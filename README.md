@@ -21,7 +21,10 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 100px; height: 40px;">
   </a>
 </p>
-
+<p align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=kirsanov69&style=flat-square&color=blue" alt="">
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirsanov69&layout=compact)](https://github.com/kirsanov69/github-readme-stats)
 
