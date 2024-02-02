@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Pavel</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python Developer </h3>
+
 <br>
 <br>
 
@@ -12,19 +12,39 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/pavel-kirsanov-24631b258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100px; height: 40px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100px; height: 30px;">
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/Karkaskomfort" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 100px; height: 40px;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 100px; height: 30px;">
   </a>
 </p>
+-->
 <p align="center">
   
   <img src="https://komarev.com/ghpvc/?username=kirsanov69&style=flat-square&color=blue" alt="">
 </p>
+
+### :man_technologist: About Me :
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: I’m currently working on learning Telegram API, Flask, Django.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: <a href="https://linkedin.com/in/pavel-kirsanov-24631b258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100px; height: 30px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Karkaskomfort" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 100px; height: 30px;">
+  </a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirsanov69&layout=compact)](https://github.com/kirsanov69/github-readme-stats)
 
