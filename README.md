@@ -44,6 +44,9 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <a href="https://t.me/Karkaskomfort" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 100px; height: 30px;">
   </a>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kirsanov69&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirsanov69&layout=compact)](https://github.com/kirsanov69/github-readme-stats)
