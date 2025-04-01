@@ -32,21 +32,33 @@
 ### :man_technologist: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m currently working on learning Telegram API, Flask, Django.
+- :telescope: Currently working on
 
-- :seedling: Exploring Technical Content Writing.
+High-load Telegram bots (OpenAI API, TTS, async queues)
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+Backend optimization (40% faster response time achieved)
+
+AWS deployments (EC2, Docker, CI/CD automation)
+
+- :seedling: Exploring
+
+Advanced distributed systems (Kafka, microservices)
+
+Technical writing & open-source contributions
+- :zap: In my free time
+
+Solving problems on LeetCode (Python, algorithms)
+
+Reading about system design and clean architecture
 
 - :mailbox:How to reach me: <a href="https://linkedin.com/in/pavel-kirsanov-24631b258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100px; height: 30px;">
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/Karkaskomfort" target="_blank">
+  <a href="https://t.me/kirsanov69" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 100px; height: 30px;">
   </a>
 <br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=kirsanov69&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 
